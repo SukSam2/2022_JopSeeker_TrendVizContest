@@ -1,4 +1,4 @@
-# # 2022 JobSeeker Trend Vizualization Contest
+# 2022 JobSeeker Trend Vizualization Contest
 
 ### 한국고용정보원 **[<구직자를 위한 기업 트렌드 시각화 경진 대회>](https://dacon.io/competitions/official/235866/overview/description)**
 
